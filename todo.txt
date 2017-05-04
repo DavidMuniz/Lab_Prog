@@ -1,0 +1,10 @@
+# Note
+- Finalizar Markup
++ Menu Dropdown
++ Trocar cor (tom azul claro)
+- Responsivar
+
+# Navigation
+- Atribuir novas paginas  (apostilas - portifolios - script's - pack imagens)
+- Atribuir Login a novas paginas
+
